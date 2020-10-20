@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Software Engineer", "Machine Learning Enthusiast", "Mobile App Developer"],    /* You can change the home section typing text from
+            strings: [ "Machine Learning Enthusiast", "Mobile App Developer","Software Engineer"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
